@@ -1,0 +1,16 @@
+/* *{
+    padding: 0;
+    margin: 0; */
+}
+div{
+    width: auto;
+    
+    
+}
+.btn{
+    background-color: blue;
+    color: #000;
+}
+.h4{
+    text-align: center;
+}
