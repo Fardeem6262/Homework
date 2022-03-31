@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container {
+    margin-top: 10rem;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.image{
+    background-image: url(https://wallpapercave.com/wp/wp2885476.jpg);
+}
